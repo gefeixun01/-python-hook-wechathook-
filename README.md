@@ -2,11 +2,10 @@
 使用纯python环境对微信进行hook，并调用微信功能，包括取sessionid，小程序code，云函数等
 
 * 文档正在开发中，功能不断完善
-* 该DLL非http接口，使用的是加载DLL,并调用函数的形式
-* DLL可使用易语言，Python，c++等编程语言加载
-* 本DLL可以用来开发框架
-* DLL完整文档：https://console-docs.apipost.cn/preview/ddf2d570ad9769aa/2f4d79a1a4b95969
-* 各个功能都可以自由组合，详情请联系QQ：3122142139
+* 该DLL使用http接口，通过post调用功能
+* DLL可使用易语言，Python，c++等编程语言调用
+* DLL完整文档：[https://console-docs.apipost.cn/preview/ddf2d570ad9769aa/2f4d79a1a4b95969](https://console-docs.apipost.cn/preview/5e9cbd6adda0e9d7/6e88ccb376747013?target_id=426db6aa-1c39-43e9-a78d-c01fb00a5977)
+* 详情请联系QQ：3122142139
 * 文档仅供交流学习使用。
 
 * 关于python实现各种功能可以参考：
